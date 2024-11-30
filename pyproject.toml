@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "visualize_heapq"
-version = "0.0.0"
+version = "0.0.2"
 authors = [
     { name="Liu Zuo Lin", email="zlliu246@gmail.com" },
 ]
@@ -22,5 +22,5 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "YOUR HOMEPAGE LINK eg. https://github.com/github_username/project_name"
-Issues = "YOUR ISSUES LINK eg. https://github.com/github_username/project_name/issues"
+Homepage = "https://github.com/zlliu246/visualize_heapq"
+Issues = "https://github.com/zlliu246/visualize_heapq/issues"
